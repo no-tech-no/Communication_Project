@@ -1,0 +1,19 @@
+
+{
+    "BAND1": {
+        "Bandwidth": "30MHz",
+        "Freq": 791e6
+    },
+    "BAND2": {
+        "Bandwidth": "25MHz",
+        "Freq": 1815e6
+    },
+    "BAND3": {
+        "Bandwidth": "20MHz",
+        "Freq": 1900e6
+    },
+    "BAND4": {
+        "Bandwidth": "20MHz",
+        "Freq": 1301e6
+    }
+}
